@@ -8,3 +8,4 @@ Nome: Gerson Callisaya Gonzales / RA:1900832
 4 - ls (print_03 mostrando diretório do projeto e README nele contido)
 5 - Add (print_04)
 6 - Fazendo o Commit (print_05 mostrando o comando feito e o seu resultado)
+7 - Push, botando o código no ar (print_06)
