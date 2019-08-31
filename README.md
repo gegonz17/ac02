@@ -20,3 +20,4 @@ Comando PUSH:
 Comando FETCH:
 8 - Novo repositório criado novo_branch(print_08)
 9 - fetch (print_09)
+10 - git push (Exigindo que seja feito o git pull print_10)
