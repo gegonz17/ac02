@@ -6,3 +6,4 @@ Nome: Gerson Callisaya Gonzales / RA:1900832
 2 - ls (print_02 mostrando diretório vazio)
 3 - clone https://github.com/gegonz17/ac02.git
 4 - ls (print_03 mostrando diretório do projeto e README nele contido)
+5 - Add (print_04)
